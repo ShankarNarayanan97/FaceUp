@@ -10,7 +10,7 @@ import cv2
 import matplotlib.pyplot as plt
 import cvlib as cv
 
-image_path = 'photo-1517486808906-6ca8b3f04846.jpg' # Giving a place for the program to look
+image_path = 'put your image URL here' # Giving a place for the program to look
 im = cv2.imread(image_path)
 plt.imshow(im)  
 plt.show() # Before face detection
