@@ -1,4 +1,4 @@
-<h1> FaceUp® : Face Detection for Beginners </h1>
+<h1>FaceUp® : Face Detection for Beginners </h1>
 
 
 
