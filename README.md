@@ -20,7 +20,7 @@
 <h5>4. Copy any image that you want to do face detection and put that URL in the code </h5>
 <h5>5. Run the code </h5>
 <h3> NOTE: </h3>
-<h4> There will be some loss in image quality in the output as the original image is compressed internally to do face detection without a GPU using Open CV </h4> 
+<h4> There will be some loss in image quality in the output as the original image is compressed internally to do face detection without a GPU using Open CV due to which the faces might look like Na'vi from Avatar </h4> 
 <h4> In order to mitigate this and to a extent do face detection without false positives, please use a high resolution photo as your input </h4>
 
 <h3> Additional information </h3>
