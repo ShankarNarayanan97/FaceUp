@@ -13,10 +13,9 @@
 <h2>Worry no more as this project is designed with all these in mind :) </h2>
 
 <h2> Let's get started</h2>
-<h3> Instructions </h3>
 <h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
 <h5>2. Install any Python IDE of your choice <a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">here</a> </h5>
-<h5>3. Install the packages using a simple command with PIP which is found in "your python installed folder/scripts/" by opening a command prompt after downloading this repository </h5>
+<h5>3. Install the packages using a simple command  by opening a command prompt in "your python installed folder/scripts/" after downloading this repository </h5>
 <h6>pip install -r requirements.txt </h6>
 <h5>4. Copy any image that you want to do face detection and put that URL in the code </h5>
 <h5>5. Run the code </h5>
