@@ -1,5 +1,5 @@
 <h1>FaceUp® : Face Detection for Beginners </h1>
-
+<h2> An easy to implement project on Face Detection made using Python3,OpenCV and Matplotlib without the use of GPU* and with a accuracy of around 85% for images with less than 6 subjects in frame and 70% for more than 6 subjects when considered factors like resolution, exposure of image, linear seperation between subjects and a viable updated model present in Open CV</h2>
 
 
 
@@ -7,7 +7,7 @@
 ![join1](https://github.com/ShankarNarayanan97/FaceUp/blob/master/finaljoin2.jpg)
 ![join1](https://github.com/ShankarNarayanan97/FaceUp/blob/master/finaljoin3.jpg)
 
-<h2> An easy to implement project on Face Detection made using Python3,OpenCV and Matplotlib without the use of GPU* and with a accuracy of around 85% for images with less than 6 subjects in frame and 70% for more than 6 subjects when considered factors like resolution, exposure of image, linear seperation between subjects and a viable updated model present in Open CV that can do all of this based on user's system specification</h2>
+
 
 <h6> *If a GPU satisfying passable conditions for image recognition is present, a additional library called Tensorflow may be asked to install </h6>
 
