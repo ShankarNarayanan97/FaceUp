@@ -19,8 +19,8 @@
 <h5>4. Put the image URL that you want to do face detection in the code </h5>
 <h5>5. Run the code </h5>
 <h3> NOTE: </h3>
-<h4> There will be some loss in image quality in the output as the original image is compressed internally to do face detection without a GPU using Open CV due to which the faces might look like Na'vi from Avatar </h4> 
-<h4> In order to mitigate this and to a extent do face detection without false positives, please use a high resolution photo as your input </h4>
+<h4> As you might have noticed,there will be some loss in image quality in the output as the original image is compressed internally to do face detection due to which the faces might look like Na'vi from Avatar </h4> 
+<h4> For computers its all about RGB, as each frame is broken down into multiple subframes like a matrix and the computer processes it 1 by one so thats why to make this project suitable for beginners I have made it this way</h4>
 
 <h3> Additional information </h3>
-<h4> If you have experience in working with packages and exporting modules in Python, you can export this code as a module in your project </h4>
+<h4> If you are comfortable in making and exporting packages then you can consider this face detection module as one as export it to yoyr project as a standalone module for image recognition</h4>
