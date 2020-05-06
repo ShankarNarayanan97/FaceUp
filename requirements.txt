@@ -4,3 +4,4 @@ tensorflow
 cvlib
 numpy
 pandas
+tensorflow
